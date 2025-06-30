@@ -31,6 +31,23 @@ Project link: https://lec-21-top-courses.vercel.app/
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -82,29 +99,11 @@ Fitness for Life
 
 Travel Photography
 
-✍️ Author
-Amarjeet Kumar
-👨‍🎓 CSE Final Year, Chandigarh University
-🌐 Linktree
-
 📄 License
 This project is open-source and available under the MIT License.
 
 🙌 Acknowledgments
 Inspired by modern e-learning platforms.
-
-Designed for educational and portfolio purposes.
-
-vbnet
-Copy
-Edit
-
-Let me know if you want a version with badges (Tech stack, License, Deploy status), screenshots, or markdown table formatting for courses.
-
-
-
-
-
 
 
 
